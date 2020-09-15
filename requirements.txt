@@ -253,7 +253,6 @@ geonamescache
 spacy_fastlang
 gensim
 wordcloud
-nltk
 visualise-spacy-tree
 textacy
 
